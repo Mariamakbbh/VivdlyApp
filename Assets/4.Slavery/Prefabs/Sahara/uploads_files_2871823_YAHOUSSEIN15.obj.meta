@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 741fe8bb00bee480e82f0ebe27fa2976
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARMOUR_COPLERMat
+    second: {fileID: 2100000, guid: 32aa135802368463cbfddfc8dd573f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY_HEAD03Mat
+    second: {fileID: 2100000, guid: 22516f99f919e40b4abad1f836010260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOOTS00Mat
+    second: {fileID: 2100000, guid: da4cc18b96ccc4a78a43e7eb95fa5a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHEST_BELT_DESIGNMat
+    second: {fileID: 2100000, guid: 6566184643353415a9d04d852eca3361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CUFF_LHMat
+    second: {fileID: 2100000, guid: 5030b2481ce1a4bf2a8cf440ecec43ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CUFF_RHMat
+    second: {fileID: 2100000, guid: 2f289ce73d763402ab1f8ab8140cc89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EYEBROW_LHMat
+    second: {fileID: 2100000, guid: 7c7f4ba144c8647c7bae6bf1eebb9017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EYEBROW_RHMat
+    second: {fileID: 2100000, guid: d3ebafd20277a437ca1729de8eb55042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EYESMat
+    second: {fileID: 2100000, guid: cc89a43417275402bb131c98e9ca6520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EYE_LHMat
+    second: {fileID: 2100000, guid: a81e827f437db4d54a86037c2becfea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EYE_RHMat
+    second: {fileID: 2100000, guid: a32c811533dcf456691cbc46625b38e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOREARM_BUTTONSMat
+    second: {fileID: 2100000, guid: 307124073d0ef48d796d12f23732ef2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREEN_DESIGN_SKIRTMat
+    second: {fileID: 2100000, guid: 72729be53036446b6b56ff2274ced10b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREEN_ROABMat
+    second: {fileID: 2100000, guid: c088088da8b91454486e468e7351f176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere003Mat
+    second: {fileID: 2100000, guid: 4c054a7b60e99498cad87c2fddb2d439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEAD_HAIRMat
+    second: {fileID: 2100000, guid: 7e721606c509d4cfab96c0f1ca96c7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEAD_KUFFAMat
+    second: {fileID: 2100000, guid: 2038095deda974fec876116f09ceadeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEFT_HAND003Mat
+    second: {fileID: 2100000, guid: aaf103978659f4ea284c94d603d2b2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEGS_SHINMat
+    second: {fileID: 2100000, guid: 7ed8201ab855e48bd85fd57548daa85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEG_PANTS00Mat
+    second: {fileID: 2100000, guid: 31724b57af7bd4205918c58a580fcaea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LH_FACEMat
+    second: {fileID: 2100000, guid: 00e794c15b07f4b5c98098cdcafdb01b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LH_FOREARMMat
+    second: {fileID: 2100000, guid: 9826063d2cd934cbfa459f4317a2457c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LH_SHIELDMat
+    second: {fileID: 2100000, guid: 37242ddffe7874bf486962454a8f4040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LH_WHITE_SHIRTMat
+    second: {fileID: 2100000, guid: e7cd1fe6ceab14dbba36b1e594759059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOWER_SCARFMat
+    second: {fileID: 2100000, guid: fcc665f4dcc7b4c358998934651a266f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NECK_ARMOUR002Mat
+    second: {fileID: 2100000, guid: 959b1c2e9e00e40f0a82595f35b5fc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NECK_ARMOUR00Mat
+    second: {fileID: 2100000, guid: b91c5d385969b46dbbdc79de76df9cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NECK_ARMOUR03Mat
+    second: {fileID: 2100000, guid: 70d6ef6f92e6b44bcbc18737aeb41edb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NECK_GREEN_ARMOUR01Mat
+    second: {fileID: 2100000, guid: b0028ffe0c0d04001976ed7588a5af4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RH_FACEMat
+    second: {fileID: 2100000, guid: 1c382edffa8424719b5e2710426df3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RH_FOREARMMat
+    second: {fileID: 2100000, guid: bb50444bc87fb496d99f61e16b5b43f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RH_SHIELDMat
+    second: {fileID: 2100000, guid: e0a745246512f4085a1697f0ab1fac4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RH_WHITE_SHIRTMat
+    second: {fileID: 2100000, guid: d4fe543d985594c238f8dd281c6fa741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RIGHT_HANDMat
+    second: {fileID: 2100000, guid: 1b249b115d6c34146a18ec8fa201f08c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RING_AROUND_NECKMat
+    second: {fileID: 2100000, guid: 23f52bc876fe94a9fba037720f442f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROAB_BUTTONSMat
+    second: {fileID: 2100000, guid: f88342f11042f491aa03755afc147c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROAB_TRIMMat
+    second: {fileID: 2100000, guid: d4a1d632d065b4dcdbeda1c7e4b4e87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOWRD_HOLDERMat
+    second: {fileID: 2100000, guid: a52a94b893eee46f382f5c99b434b840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWORDMat
+    second: {fileID: 2100000, guid: c98965a98a3104ca0a99ed95ce660063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere001Mat
+    second: {fileID: 2100000, guid: 426d1c60c0a5e4c06b4971048579ddc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UNDERSHIRTMat
+    second: {fileID: 2100000, guid: 3b89af408ce9e486b8cd126339ab05cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UPPER_ROABMat
+    second: {fileID: 2100000, guid: de50d6003e3054b58af1d5ae54050406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UPPER_SCARFMat
+    second: {fileID: 2100000, guid: 53c6b165439bf47f485e24772d702ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WASTE_BELTMat
+    second: {fileID: 2100000, guid: 2a8e4515577804fb99dbd68612ef96d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE_SKIRTMat
+    second: {fileID: 2100000, guid: f54428ba072014761b9f0aac59f1a177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottomgreenMat
+    second: {fileID: 2100000, guid: 0bd78ec16a47e40f8a853bf5ffcaa66b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
