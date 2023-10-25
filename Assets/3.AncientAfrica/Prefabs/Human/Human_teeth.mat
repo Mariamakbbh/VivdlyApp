@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Human_teeth
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: V_SSS_ADVANCED_TRANSLUSENCY_ON V_SSS_RIM_OFF _EMISSION _EMISSIONMAP
+    _LIGHTMAPPING_DYNAMIC_LIGHTMAPS _LIGHTMAPPING_REALTIME _METALLICGLOSSMAP _NORMALMAP
+    _SPECGLOSSMAP _UVSEC_UV1
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BRDFTex:
+        m_Texture: {fileID: 2800000, guid: a3be0a37e4aae2840ab107d68c610029, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 2c35f1d91bd4efe4ea71256c1af0da06, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: fe8314f75949c2646bcc85f2c335e1a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionTempRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionTemperatureRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a96ca54260c02ae4aa077bc95275b29b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: c5152a7196484ee4583f05f3919a76f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: a53cd3661bc370d4b8f26e23cc135050, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: b7f548dd27208f441b09275d54fdd71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: b7f548dd27208f441b09275d54fdd71f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex:
+        m_Texture: {fileID: 2800000, guid: 16c20036c97be224aa36b891be1ddf52, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TransMap:
+        m_Texture: {fileID: 2800000, guid: e305301cb56859e43b6c492a63eb8ce3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaTestRef: 0.5
+    - _BumpBias: 1.5
+    - _BumpScale: 1
+    - _BumpSize: 1
+    - _CullMode: 2
+    - _CurvatureScale: 0.005
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissionScaleUI: 1
+    - _EmissionTemperature: 0
+    - _Fresnel: 1.17
+    - _GlossMapScale: 0.175
+    - _Glossiness: 0.82
+    - _GlossyReflections: 1
+    - _LightAttenuationStrength: 2
+    - _Lightmapping: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalizeLightVector: 1
+    - _OcclusionStrength: 0.83
+    - _Orthonormalize: 0
+    - _Parallax: 0.02
+    - _PlaneReflectionBumpClamp: 0.05
+    - _PlaneReflectionBumpScale: 0.4
+    - _ProbesBoost: 1
+    - _Shininess: 0.03
+    - _SmoothnessInAlbedo: 0
+    - _SmoothnessTextureChannel: 0
+    - _SmoothnessTweak1: 0.54
+    - _SmoothnessTweak2: 0.07
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TransBackfaceIntensity: 2.1
+    - _TransDirectianalLightStrength: 0.2
+    - _TransDistortion: 0.5
+    - _TransOtherLightsStrength: 1.21
+    - _TransPower: 11.1
+    - _TransScale: 190.5
+    - _UVSec: 0
+    - _V_MaterialTag: 0
+    - _V_MaterialTitle_: 0
+    - _V_MaterialTitle_Default: 0
+    - _V_SSS_Emission: 0
+    - _V_SSS_Rim_Pow: 8
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColorWithMapUI: {r: 0.99999994, g: 0.8586226, b: 0.75000346, a: 1}
+    - _ReflectColor: {r: 0.05660379, g: 0.016820937, b: 0.016820937, a: 0.5}
+    - _SmoothnessTweaks: {r: 1, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+    - _SpecularColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _SpecularMapColorTweak: {r: 1, g: 0.94896686, b: 0.9292453, a: 1}
+    - _TransColor: {r: 0.33962262, g: 0.10769208, b: 0, a: 1}
+    - _V_SSS_Rim_Color: {r: 0, g: 0.33457947, b: 1, a: 1}
